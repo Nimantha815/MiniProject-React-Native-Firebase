@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.nimanthaaravinda815.miniproject"
+      "package": "com.aravinda815.miniproject"
     },
     "web": {
       "favicon": "./assets/favicon.png"
